@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: 100%;
+  font-family: Gilroy-Bold, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
